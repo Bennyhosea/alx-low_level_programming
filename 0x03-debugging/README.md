@@ -1,1 +1,1 @@
-0x03 - Debugging
+0x03 - debugging
